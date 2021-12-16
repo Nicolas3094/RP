@@ -1,0 +1,11 @@
+}
+#ifndef HEADERS_LINEAL_GENERAL_LINEAL_HPP_
+#define HEADERS_LINEAL_GENERAL_LINEAL_HPP_
+#include "../Lineal.hpp"
+class LINEAL{
+
+};
+
+
+
+#endif /* HEADERS_LINEAL_GENERAL_LINEAL_HPP_ */
